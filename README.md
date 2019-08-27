@@ -1,6 +1,6 @@
 #below status badge put in by rajk
-https://github.com/MicrosoftDocs/pipelines-javahttps://github.com/MicrosoftDocs/pipelines-java
 
+[![Build Status](https://dev.azure.com/rajk1000/helloworld1/_apis/build/status/rajktest.pipelines-java?branchName=master)](https://dev.azure.com/rajk1000/helloworld1/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
